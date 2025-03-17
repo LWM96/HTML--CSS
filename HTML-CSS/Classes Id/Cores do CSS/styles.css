@@ -1,0 +1,48 @@
+/* Cores rgb */
+.rgb {
+    color: rgb(255,0,0);
+}
+
+.rgb
+
+/* Hexadecimal Simplificado */
+.hex-simplificado {
+    color: #333;
+}
+
+/* HSL */
+.hsl {
+    color: hsl(100, 20%, 50%);
+}
+
+.hsl2 {
+    color: hsl(199, 44%, 5%);
+}
+
+/* Background Color*/
+.backgourndcolor {
+    background-color: #000;
+    color: gold;
+}
+
+.bg-2 {
+    background-color: rgb(100, 50, 33);
+    color: #0fa;
+}
+
+/* Opacidade do Background Color*/
+.opacidade {
+    background-color: red;
+    opacity: 0.2;
+}
+.opacidade2 {
+    background-color: #888;
+    color: black;
+    opacity: 0.8;
+}
+
+/*RGBA com opacidade*/
+.rgba-opacidade {
+    background-color: rgba(90, 100, 40, 0.2);
+    color: #000;
+}
